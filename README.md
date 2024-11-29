@@ -2,18 +2,7 @@
 
 Este é um projeto simples de **blog** desenvolvido em **Python** com **Flask**. O objetivo é permitir a criação, edição, exclusão e exibição de posts, além de funcionalidades como login e cadastro de usuários.
 
-O projeto foi desenvolvido como parte de uma disciplina de tópicos especiais da faculdade.
-
-## Como usar ##
-- Use o seguinte CMD para ativar o ambiente virtual
-    .\venv\Scripts\activate
-
-- Instale as dependências
-    pip install -r requirements.txt
-
-- Rode o projeto
-    python app.py
-
+O projeto foi desenvolvido como parte de uma disciplina de Tópicos Especiais da Faculdade de Tecnologia de Ribeirão Preto.
 
 ## Funcionalidades
 
@@ -24,7 +13,7 @@ O projeto foi desenvolvido como parte de uma disciplina de tópicos especiais da
 - Exclusão de posts.
 - Exibição de posts.
 - Importação de posts via arquivo JSON.
-- Página de contato com links para redes sociais.
+- Exportação de posts formato JSON.
 
 ## Tecnologias Utilizadas
 
@@ -43,3 +32,28 @@ Clone o repositório para o seu computador:
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
+```
+
+### 2. Ative o ambiente virtual
+
+Clone o repositório para o seu computador:
+
+```bash
+.\venv\Scripts\activate
+```
+
+### 3. Instale as dependências
+
+Clone o repositório para o seu computador:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Rode o projeto
+
+Clone o repositório para o seu computador:
+
+```bash
+python app.py
+```
