@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Explorando os Mistérios do Universo",
+    "content": "A astronomia sempre foi uma paixão minha, e hoje quero compartilhar um pouco sobre o que sabemos sobre o espaço. Os buracos negros, por exemplo, são uma das maiores incógnitas que ainda fascinam cientistas e astrônomos ao redor do mundo. O que acontece quando algo cruza o horizonte de eventos de um buraco negro? Será que conseguimos entender completamente as leis da física em situações tão extremas?",
+    "user_id": 1
+  },
+  {
+    "title": "O Impacto da Inteligência Artificial na Vida Cotidiana",
+    "content": "Nos últimos anos, a inteligência artificial deixou de ser apenas uma fantasia futurista para se tornar uma parte fundamental do nosso dia a dia. Desde os assistentes virtuais que usamos para controlar nossas casas até os algoritmos que definem quais produtos aparecerão em nossas redes sociais, a IA está moldando a forma como interagimos com o mundo. No entanto, essa evolução traz à tona questões éticas e sociais importantes, que ainda precisamos discutir.",
+    "user_id": 1
+  },
+  {
+    "title": "A Jornada do Programador: Desafios e Conquistas",
+    "content": "Ser programador é muito mais do que escrever código. Cada projeto traz novos desafios, e cada linha de código representa um problema a ser resolvido. Ao longo dos anos, aprendi que, mais do que dominar uma linguagem de programação, é preciso ter paciência e perseverança. Quando você resolve um bug complicado ou lança um produto que funciona perfeitamente, a sensação de conquista é indescritível. É a paixão por resolver problemas que me mantém nessa jornada.",
+    "user_id": 1
+  }
+]
